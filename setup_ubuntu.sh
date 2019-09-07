@@ -27,6 +27,7 @@ git clone --recursive git@github.com:openframeworks/openFrameworks.git $OPENFRAM
 cd $OPENFRAMEWORKS_DIR
 sudo ./scripts/linux/ubuntu/install_dependencies.sh
 sudo ./scripts/linux/ubuntu/install_codecs.sh
+sudo ./scripts/linux/download_libs.sh
 
 # Submodules - specifically for ./apps/projectGenerator
 git submodule init
