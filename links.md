@@ -9,6 +9,8 @@ Shawn Lawson    https://github.com/shawnlawson/EV9D9
 
 Bryce Kerr Abraham https://youtu.be/b4Ce9x-GFXg
 
+Audrey Beard https://vimeo.com/358515357
+
 Nate Bennett    https://vimeo.com/358246741
 
 Jordan Jackson  https://vimeo.com/356782946
